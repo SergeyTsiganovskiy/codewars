@@ -1,0 +1,13 @@
+D:\Repositories\Codewars\CalculatorWrongByZoran\bin\Debug\netcoreapp3.1\CalculatorWrongByZoran.exe
+D:\Repositories\Codewars\CalculatorWrongByZoran\bin\Debug\netcoreapp3.1\CalculatorWrongByZoran.deps.json
+D:\Repositories\Codewars\CalculatorWrongByZoran\bin\Debug\netcoreapp3.1\CalculatorWrongByZoran.runtimeconfig.json
+D:\Repositories\Codewars\CalculatorWrongByZoran\bin\Debug\netcoreapp3.1\CalculatorWrongByZoran.runtimeconfig.dev.json
+D:\Repositories\Codewars\CalculatorWrongByZoran\bin\Debug\netcoreapp3.1\CalculatorWrongByZoran.dll
+D:\Repositories\Codewars\CalculatorWrongByZoran\bin\Debug\netcoreapp3.1\CalculatorWrongByZoran.pdb
+D:\Repositories\Codewars\CalculatorWrongByZoran\obj\Debug\netcoreapp3.1\CalculatorWrongByZoran.csprojAssemblyReference.cache
+D:\Repositories\Codewars\CalculatorWrongByZoran\obj\Debug\netcoreapp3.1\CalculatorWrongByZoran.AssemblyInfoInputs.cache
+D:\Repositories\Codewars\CalculatorWrongByZoran\obj\Debug\netcoreapp3.1\CalculatorWrongByZoran.AssemblyInfo.cs
+D:\Repositories\Codewars\CalculatorWrongByZoran\obj\Debug\netcoreapp3.1\CalculatorWrongByZoran.csproj.CoreCompileInputs.cache
+D:\Repositories\Codewars\CalculatorWrongByZoran\obj\Debug\netcoreapp3.1\CalculatorWrongByZoran.dll
+D:\Repositories\Codewars\CalculatorWrongByZoran\obj\Debug\netcoreapp3.1\CalculatorWrongByZoran.pdb
+D:\Repositories\Codewars\CalculatorWrongByZoran\obj\Debug\netcoreapp3.1\CalculatorWrongByZoran.genruntimeconfig.cache
